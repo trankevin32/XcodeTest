@@ -1,4 +1,6 @@
 # XcodeTest
+
+Not my favorite method. Creates too many files. 
 Testing Xcode and GitHub
 
 This first method involves creating a repository on GitHub first.
